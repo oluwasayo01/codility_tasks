@@ -9,4 +9,4 @@ def solution(A):
             rest_sum -= A[index + 1]
     return min(result)
 
-print(solution([3, 1, 2, 4, 3]))
+# print(solution([3, 1, 2, 4, 3]))

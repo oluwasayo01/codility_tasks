@@ -6,5 +6,5 @@ def solution(A):
         return 1
     return 0
 
-print(solution([4, 1, 3, 2]))
-print(solution([4, 1, 3]))
+# print(solution([4, 1, 3, 2]))
+# print(solution([4, 1, 3]))

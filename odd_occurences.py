@@ -8,4 +8,4 @@ def solution(A):
             result = value
     return result
         
-print(solution([9, 3, 9, 3, 9, 7, 9]))
+# print(solution([9, 3, 9, 3, 9, 7, 9]))

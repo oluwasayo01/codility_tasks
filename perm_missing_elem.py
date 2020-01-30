@@ -5,4 +5,4 @@ def solution(A):
     result = list(complete_set.difference(arr_set))
     return result[0]
 
-print(solution([2, 3, 1, 5]))
+# print(solution([2, 3, 1, 5]))

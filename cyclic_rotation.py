@@ -5,4 +5,4 @@ def solution(A, K):
             A.insert(0, popped)
     return A
 
-print(solution([3, 8, 9, 7, 6], 3))
+# print(solution([3, 8, 9, 7, 6], 3))

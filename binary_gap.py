@@ -12,4 +12,4 @@ def solution(N):
         return 0
     return max(zero_gaps)
 
-print(solution(1041))
+# print(solution(1041))

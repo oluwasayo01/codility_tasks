@@ -6,4 +6,4 @@ def solution(X, Y, D):
         count+=1
     return count
 
-print(solution(10, 85, 30))
+# print(solution(10, 85, 30))

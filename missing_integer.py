@@ -9,4 +9,4 @@ def solution(A):
             return index + 1
     return len(A) + 1
 
-print(solution([1, 3, 6, 4, 1, 2]))
+# print(solution([1, 3, 6, 4, 1, 2]))
