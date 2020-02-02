@@ -28,7 +28,6 @@ def solution(S, P, Q):
     result = []
     for i, j in number_pairs:
         gap = S[i:j+1]
-        # groups.append(gap)
         if 'A' in gap:
             result.append(1)
             continue
